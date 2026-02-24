@@ -21,10 +21,15 @@ How to Run:
 example:input from data.txt
 
 6----> hops count
+
 4----> customer count
+
 0 by-sea, 2 by-sea, 3 by-sea ------> customer 1 preference
+
 0 by-sea, 5 airborne         ------> customer 2 preference
+
 0 airborne, 5 by-sea         ------> customer 3 preference
+
 2 airborne                   ------> customer 4 preference
 
 
